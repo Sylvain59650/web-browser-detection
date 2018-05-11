@@ -1,0 +1,41 @@
+{
+  "name": "web-browser-detection",
+  "version": "0.9.0",
+  "description": "detect web browser informations",
+  "main": "distrib/web-browser-detection.min.js",
+  "dependencies": {
+   
+  },
+  "devDependencies": { 
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvain59650/web-browser-detection.git"
+  },
+  "keywords": [
+    "webbrowser",
+    "browser",
+    "navigator",
+    "detect",
+    "detection",
+    "useragent",
+    "user-agent",
+    "ie",
+    "chrome",
+    "firefox",
+    "safari",
+    "vivaldi",
+    "internet explorer"
+  ],
+  "author": "Sylvain LONGEPEE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sylvain59650/web-browser-detection/issues"
+  },
+  "homepage": "https://github.com/Sylvain59650/web-browser-detection#readme"
+}

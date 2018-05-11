@@ -1,0 +1,16 @@
+<html>
+
+<head>
+  <script src="../distrib/web-browser-detection.min.js"></script>
+</head>
+
+<body>
+  You use <span id="info"></span>
+
+  <script>
+    var browser = webBrowserDetection();
+    document.querySelector("#info").innerHTML = JSON.stringify(browser);
+  </script>
+</body>
+
+</html>
