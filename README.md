@@ -1,6 +1,4 @@
 # web-browser-detection
-detect web browser informations
-
 
 <div style="display:inline">
 
@@ -22,19 +20,42 @@ detect web browser informations
 
 # introduction
 
+detect web browser informations
+
 based on [jquery.browser]("https://cdnjs.cloudflare.com/ajax/libs/jquery-browser/0.1.0/jquery.browser.min.js") under MIT License
 
 but remove jQuery dependency
 
 
+## Installation
 
+    npm install web-browser-detection --save
+
+or
+
+    yarn add web-browser-detection --save
+
+
+## prerequisites
+
+### for browser
+
+ 
+    <script src="node_modules/web-browser-detection/distrib/web-browser-detection.min.js"></script>
+
+## usage
+
+    <script>
+       var browser = webBrowserDetection();
+       // => {"rv":true,"version":"11.0","versionNumber":11,"win":true,"desktop":true,"msie":true,"name":"msie","platform":"win"} 
+    </script>
 
 
 
 
 <table border="1">
 <tr>
-<th>Browser</th><th>Platform</th><th>Versions<th><th>Result</th></tr>
+<th>Browser</th><th>Platform</th><th>Versions</th><th>Result</th></tr>
 <tr>
 <td>Chrome</td><td>Windows 7</td><td>all<sup>*</sup></td><td>{<br/>
 chrome: true,<br/>
@@ -73,4 +94,4 @@ win: true<br/>
 
 <sup>*</sup>  Need some help for all versions
 
-**Note Important ![dependencies](https://img.shields.io/david/Sylvain59650/web-browser-detection.svg)**
+**Note Important ![dependencies](https://img.shields.io/david/Sylvain59650/web-browser-detection.svg) and ![minified](https://img.shields.io/bundlephobia/min/web-browser-detection.svg)**
