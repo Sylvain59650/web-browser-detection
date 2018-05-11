@@ -55,7 +55,7 @@ or
 
 <table border="1">
 <tr>
-<th>Browser</th><th>Platform</th><th>Versions</th><th>Result</th></tr>
+<th>Browser</th><th>Platform</th><th>Versions</th><th style="width:200px">Result</th></tr>
 <tr>
 <td>Chrome</td><td>Windows 7</td><td>all<sup>*</sup></td><td>{<br/>
 chrome: true,<br/>
@@ -69,7 +69,7 @@ platform:"win"<br/>
 }
 </td></tr>
 <tr>
-<td>Firefox</td><td>Windows 7</td><td>all<sup>*</sup></td><td>{<br/>{<br/> mozilla: true,<br/> 
+<td>Firefox</td><td>Windows 7</td><td>all<sup>*</sup></td><td>{<br/> mozilla: true,<br/> 
 version: "60.0", <br/>
 versionNumber: 60, <br/>
 win: true,<br/> 
