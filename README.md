@@ -11,7 +11,7 @@
 ![tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)
 ![license](https://img.shields.io/npm/l/web-browser-detection.svg)
 [![hits](http://hits.dwyl.com/Sylvain59650/web-browser-detection.svg)](http://hits.dwyl.com/Sylvain59650/web-browser-detection)
-[![Gitter](https://badges.gitter.im/SylvainL-projects/web-browser-detection.svg)](https://gitter.im/SylvainL-projects/web-browser-detection?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/SylvainL-projects/web-browser-detection.svg)](https://gitter.im/SylvainL-projects/web-browser-detection)
 
 
 </div>
