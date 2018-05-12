@@ -11,6 +11,9 @@
 ![tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)
 ![license](https://img.shields.io/npm/l/web-browser-detection.svg)
 [![hits](http://hits.dwyl.com/Sylvain59650/web-browser-detection.svg)](http://hits.dwyl.com/Sylvain59650/web-browser-detection)
+[![Gitter](https://badges.gitter.im/SylvainL-projects/web-browser-detection.svg)](https://gitter.im/SylvainL-projects/web-browser-detection?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 </div>
 
  <div class="Note" style="color:orange;font-style:italic">
@@ -36,9 +39,7 @@ or
     yarn add web-browser-detection --save
 
 
-## prerequisites
-
-### for browser
+## prerequisites for browser
 
  
     <script src="node_modules/web-browser-detection/distrib/web-browser-detection.min.js"></script>
@@ -91,6 +92,8 @@ win: true<br/>
 }
 </td></tr>
 </table>
+
+[more](https://github.com/Sylvain59650/web-browser-detection/blob/master/README.md)
 
 <sup>*</sup>  Need some help for all versions
 
