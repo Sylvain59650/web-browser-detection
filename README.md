@@ -48,6 +48,10 @@ or
  
     <script src="node_modules/web-browser-detection/distrib/web-browser-detection.min.js"></script>
 
+## without installation
+
+    <script src="https://cdn.jsdelivr.net/npm/web-browser-detection/distrib/web-browser-detection.min.js"></script>
+    
 ## usage
 
     <script>
