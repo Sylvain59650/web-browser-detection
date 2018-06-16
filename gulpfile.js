@@ -3,7 +3,8 @@ const gulp = require("gulp");
 
 const chemins = {
   sources: "./src/",
-  distrib: "./distrib/"
+  distrib: "./distrib/",
+  demo: "./docs/demo/"
 };
 
 
@@ -13,6 +14,7 @@ gulp.task("web-browser-detection.min.js", () => {
     ])
     .pipe(uglify())
     .pipe(gulp.dest(chemins.distrib))
+    .pipe(gulp.dest(chemins.demo + "modules/web-browser-detection/distrib/"))
 });
 
 

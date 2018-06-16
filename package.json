@@ -1,6 +1,6 @@
 {
   "name": "web-browser-detection",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "detect web browser informations",
   "main": "distrib/web-browser-detection.min.js",
   "dependencies": {
@@ -30,12 +30,13 @@
     "firefox",
     "safari",
     "vivaldi",
-    "internet explorer"
+    "internet explorer",
+    "front-end"
   ],
   "author": "Sylvain LONGEPEE",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Sylvain59650/web-browser-detection/issues"
   },
-  "homepage": "https://github.com/Sylvain59650/web-browser-detection#readme"
+  "homepage": "https://sylvain59650.github.io/web-browser-detection/index.html"
 }
