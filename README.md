@@ -51,7 +51,7 @@ or
 ## without installation
 
     <script src="https://cdn.jsdelivr.net/npm/web-browser-detection/distrib/web-browser-detection.min.js"></script>
-    
+
 ## usage
 
     <script>
@@ -64,7 +64,7 @@ or
 
 <table border="1">
 <tr>
-<th>Browser</th><th>Platform</th><th>Versions</th><th style="width:500px">Result</th></tr>
+<th>Browser</th><th>Platform</th><th>Versions</th><th style="width:400px">Result</th></tr>
 <tr>
 <td>Chrome</td><td>Windows 7</td><td>all<sup>*</sup></td><td>{<br/>
 chrome: true,<br/>
