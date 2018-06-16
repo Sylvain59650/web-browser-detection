@@ -1,17 +1,21 @@
-# web-browser-detection
 
-<div style="display:inline">
-
-[![build](https://travis-ci.org/Sylvain59650/web-browser-detection.png?branch=master)](https://travis-ci.org/Sylvain59650/web-browser-detection)
-![version](https://img.shields.io/npm/v/web-browser-detection.svg)
-![package](https://img.shields.io/github/package-json/v/Sylvain59650/web-browser-detection.svg)
-![dependencies](https://img.shields.io/david/Sylvain59650/web-browser-detection.svg)
-![minified](https://img.shields.io/bundlephobia/min/web-browser-detection.svg)
-![linter](https://img.shields.io/badge/eslint-ok-blue.svg)
-![tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)
-![license](https://img.shields.io/npm/l/web-browser-detection.svg)
-[![hits](http://hits.dwyl.com/Sylvain59650/web-browser-detection.svg)](http://hits.dwyl.com/Sylvain59650/web-browser-detection)
-[![Gitter](https://badges.gitter.im/SylvainL-projects/web-browser-detection.svg)](https://gitter.im/SylvainL-projects/web-browser-detection)
+<h1 class="title">web-browser-detection</h1>
+    <div style="display:inline">
+      <a target="_blank" title="build" href="https://travis-ci.org/Sylvain59650/web-browser-detection"><img src="https://travis-ci.org/Sylvain59650/web-browser-detection.png?branch=master" /></a>
+      <a target="_blank" title="version" href="https://www.npmjs.com/package/web-browser-detection"><img src="https://img.shields.io/npm/v/web-browser-detection.svg" /></a>
+      <a target="_blank" title="package" href="https://github.com/Sylvain59650/web-browser-detection"><img src="https://img.shields.io/github/package-json/v/Sylvain59650/web-browser-detection.svg" /></a>
+      <a target="_blank" title="dependencies" href="https://david-dm.org/Sylvain59650/web-browser-detection"><img src="https://img.shields.io/david/Sylvain59650/web-browser-detection.svg" /></a>
+      <a target="_blank" title="dependencies graph" href="http://npm.anvaka.com/#/view/2d/web-browser-detection"><img src="https://img.shields.io/badge/dependencies-graph-blue.svg" /></a>
+      <img src="https://img.shields.io/bundlephobia/min/web-browser-detection.svg" />
+      <img src="https://img.shields.io/badge/eslint-ok-blue.svg" />
+      <a target="_blank" title="tests" href="https://sylvain59650.github.io/web-browser-detection/"><img src="https://img.shields.io/badge/tests-passing-brightgreen.svg" /></a>
+      <a target="_blank" title="CDN downloads" href="https://www.jsdelivr.com/package/npm/web-browser-detection"><img src="https://data.jsdelivr.com/v1/package/npm/web-browser-detection/badge" /></a>
+      <a target="_blank" title="CDN url" href="https://cdn.jsdelivr.net/npm/web-browser-detection/distrib/web-browser-detection.min.js"><img src="https://img.shields.io/badge/cdn-jsdeliv-black.svg" /></a>
+	  <img src="https://img.shields.io/npm/l/web-browser-detection.svg" />
+      <img src="https://hits.dwyl.com/Sylvain59650/web-browser-detection.svg" />
+      <a href="https://gitter.im/SylvainL-projects/web-browser-detection" title="Gitter">
+      <img src="https://badges.gitter.im/SylvainL-projects/web-browser-detection.svg" /></a>
+    </div>
 
 
 </div>
