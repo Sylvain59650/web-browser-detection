@@ -79,7 +79,7 @@ platform:"win"<br/>
 </td></tr>
 <tr>
 <td>Vivaldi</td><td>Windows 7</td><td>all<sup>*</sup></td><td>
-{"chrome":true,"version":"62.0.3202.97","versionNumber":62,"win":true,"desktop":true,"webkit":true,"name":"chrome","platform":"win"}
+{"chrome":true, "version":"62.0.3202.97", "versionNumber":62, "win":true, "desktop":true, "webkit":true, "name":"chrome", "platform":"win"}
 </td>
 </tr>
 <tr>
