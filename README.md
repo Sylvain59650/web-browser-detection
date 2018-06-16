@@ -60,7 +60,7 @@ or
 
 <table border="1">
 <tr>
-<th>Browser</th><th>Platform</th><th>Versions</th><th style="width:200px">Result</th></tr>
+<th>Browser</th><th>Platform</th><th>Versions</th><th style="width:500px">Result</th></tr>
 <tr>
 <td>Chrome</td><td>Windows 7</td><td>all<sup>*</sup></td><td>{<br/>
 chrome: true,<br/>
@@ -73,6 +73,11 @@ name:"chrome",<br/>
 platform:"win"<br/>
 }
 </td></tr>
+<tr>
+<td>Vivaldi</td><td>Windows 7</td><td>all<sup>*</sup></td><td>
+{"chrome":true,"version":"62.0.3202.97","versionNumber":62,"win":true,"desktop":true,"webkit":true,"name":"chrome","platform":"win"}
+</td>
+</tr>
 <tr>
 <td>Firefox</td><td>Windows 7</td><td>all<sup>*</sup></td><td>{<br/> mozilla: true,<br/> 
 version: "60.0", <br/>
@@ -97,7 +102,7 @@ win: true<br/>
 </td></tr>
 </table>
 
-[more](https://github.com/Sylvain59650/web-browser-detection/blob/master/README.md)
+[more](https://sylvain59650.github.io/web-browser-detection/)
 
 <sup>*</sup>  Need some help for all versions
 
